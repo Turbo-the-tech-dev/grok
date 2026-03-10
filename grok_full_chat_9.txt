@@ -1,0 +1,5 @@
+USER: Alternative screen bufffer like  chromebook?
+
+GROK: Beep-boop. Dweeeet trill-whirrr zzt.\
+\
+// Turbo: Elite hyper-optimized alternate screen buffer emulat...\

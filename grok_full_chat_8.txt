@@ -1,0 +1,5 @@
+USER: Aws command not found
+
+GROK: Beep-boop. Zzzt whirrr dweet-trill-woo.\
+\
+───────────────────────────────────────────────────────────...\

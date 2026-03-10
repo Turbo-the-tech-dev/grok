@@ -1,0 +1,5 @@
+USER: What’s this?
+
+GROK: Beep-boop. Dweet-dweet. Whirrr zzt-trill woo-woo blip blip.\
+\
+// ╔═══════════════════════════════════...\

@@ -1,0 +1,6 @@
+USER: Add unit tests for app.ts
+
+GROK: Beep-boop. Zzt dweet-trill whirrrr. Woo-woo blip-blip.\
+\
+// tests/app.test.ts\
+// Vitest + jsdom + fak...\

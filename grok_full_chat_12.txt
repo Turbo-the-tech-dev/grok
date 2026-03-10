@@ -1,0 +1,6 @@
+USER: Create another issue for the repo
+
+GROK: Beep-boop. Dweet-whirrr zzt-trill. Woo-woo blip.\
+\
+!/usr/bin/env bash\
+┌──────────────────────────────...\

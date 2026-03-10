@@ -1,0 +1,6 @@
+USER: What’s this?
+
+GROK: Beep-boop. Dweeeet trill-whirrr zzt.\
+\
+╔════════════════════════════════════════════════════╗\
+║  Term...\
